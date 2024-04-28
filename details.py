@@ -1,4 +1,4 @@
-api_id = 20346550
-api_hash = "bc79c3bea7a626887bdc0871eecf0327"
-bot_token = "6647821815:AAE6sWGJJJEYJP8Zl54TLUQEJcfO4TO8sQY"
+api_id = 24478182
+api_hash = "a98b5be0127986be1cc2553dbd99765e"
+bot_token = "6850920022:AAFJvqHYIA_qYf9RyEVlNQiMxDGd2OQpkCU"
 
